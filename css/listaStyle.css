@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+}
+
+table{
+    border: 1px solid gray;
+    width: 80%;
+    margin: 20px auto;
+    
+}
+
+td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #235a81;
+}
